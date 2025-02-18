@@ -11,8 +11,8 @@ public class MahasiswaMain16 {
         mhs1.uptadeIpk(4.00);
         mhs1.tampilkanInformasi();
 
-        Mahasiswa16 mhs2 = new Mahasiswa16("Angkasaa","2641070601", 3.5, "1G-SIB");
-        mhs2.uptadeIpk(3.50);
-        mhs2.tampilkanInformasi();
+        Mahasiswa16 mhsHasbiy = new Mahasiswa16("Hasbiy","2641070601", 3.5, "1G-SIB");
+        mhsHasbiy.uptadeIpk(3.50);
+        mhsHasbiy.tampilkanInformasi();
     }
 }

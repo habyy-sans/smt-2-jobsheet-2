@@ -8,12 +8,14 @@ public class Mahasiswa16 {
         kelas = kls;
         this.ipk = ipk;
     }
+        //Mahasiswa16 mhsHasbiy = new Mahasiswa16("Muhammad Hasbiy Ashshiddiqi", "244107060135", 3.75, "1G-SIB");
+
         String nama;
         String nim;
         String kelas;
         double ipk;
           
-    void tampilkanInformasi() {
+    void tampilkanInformasi() { 
         System.out.println("Nama: " + nama );
         System.out.println("Nim: " + nim );
         System.out.println("Ipk: " + ipk );
